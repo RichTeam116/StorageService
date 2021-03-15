@@ -1,0 +1,14 @@
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\bin\Debug\netcoreapp2.1\StorageWebAPI.deps.json
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\bin\Debug\netcoreapp2.1\StorageWebAPI.runtimeconfig.json
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\bin\Debug\netcoreapp2.1\StorageWebAPI.runtimeconfig.dev.json
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\bin\Debug\netcoreapp2.1\StorageWebAPI.dll
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\bin\Debug\netcoreapp2.1\StorageWebAPI.pdb
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.csprojAssemblyReference.cache
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.RazorAssemblyInfo.cache
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.RazorAssemblyInfo.cs
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.AssemblyInfoInputs.cache
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.AssemblyInfo.cs
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.dll
+C:\Users\Виталий\source\repos\StorageWebAPI\StorageWebAPI\obj\Debug\netcoreapp2.1\StorageWebAPI.pdb
